@@ -65,7 +65,7 @@
   body {
 	margin:0;
 	padding:0;
-	background-color:#ffffff;
+	background-color:#4f4f4f;
 	color:#1a1a1a;
 	font-family:"Open Sans",system-ui;
 	font-size:1.125rem;     				/* 18px */
@@ -201,7 +201,7 @@ a:hover {
 	display:inline-flex;
 	align-items:center;
 	justify-content:center;
-	width:33rem;             	/* 300px */
+	width:90%;             	/* 300px */
  	min-height:3.5rem;                /* 48px */
   	padding:0.75rem 1rem;         	/* 12px ; 16px */
   	font-size:1.125rem;           	/* 18px */
@@ -267,7 +267,7 @@ a:hover {
 	outline-offset: 2px;
   }
 :root.theme-dark body {
-	background-color:#121212;
+	background-color:#4f4f4f;
 	color:#ffffff;
 }
 :root.theme-dark a:not(.button) {
